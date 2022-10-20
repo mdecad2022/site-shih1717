@@ -1,0 +1,16 @@
+    1  ssh-keygen
+    2  ls -i
+    3  ls -l
+    4  cat .gitconfig
+    5  cat .gitconfig
+    6  git config --global http.proxy http://p42.cycu.org:3128
+    7  cat .gitconfig
+    8  git clone --recurse-submodules https://github.com/mdecad2022/site-shih1717.git
+    9  git clone --recurse-submodules https://github.com/mdecad2022/site-shih1717.git
+   10  pwd
+   11  git clone --recurse-submodules https://github.com/mdecad2022/site-shih1717.git
+   12  cd si*
+   13  server.py&
+   14  ps aux |grep "server.py"
+   15  ps aux
+   16  history > history.txt
